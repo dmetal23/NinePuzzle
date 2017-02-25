@@ -1,7 +1,5 @@
 /*
 Programmer: Daniel Rojas
-Project #3: NinePuzzle
-Class: COMP 282, MoWe 9:30
 */
 import java.util.*;
 
